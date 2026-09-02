@@ -8,7 +8,7 @@ I  created a new Active Directory domain to provide Northstar Medical Group with
 
 ## Video Walkthrough
 
-https://youtu.be/yJhaAOaczPI
+https://youtu.be/yJhaAOaczPI?si=jRfwnajzsuFLNdsB
 
 
 
