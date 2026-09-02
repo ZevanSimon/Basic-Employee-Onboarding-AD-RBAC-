@@ -1,0 +1,28 @@
+1. Jane's User identity is in the Operations OU
+2. Jane was found in the Operations OU, but she is supposed to be in the HR OU.
+3. Jane is currently a member of the Operations-Users. She should be a member of HR-Users 
+
+This occurred because Jane was placed in the wrong OU. This led her to have the wrong permissions and
+policies. 
+
+
+Ticket Number: NMG-0047
+
+Affected User: Jane Cooper(jcooper@NMG.com)
+
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives
+differ from those of her teammates
+
+Root Cause: Jane was in the Operations OU, which granted her the wrong permissions.
+She was also a member of the Operations Group, which was also giving her different access
+to things that her teammates do not have. 
+
+Fix applied: Jane was moved from the Operations OU to the HR OU. 
+She was also removed from the Operations-Users group and placed into the HR-Users group.
+
+Verification: After checking the HR-Users group, Jane was listed with the correct permissions
+alongside her teammates. 
+
+Date resolved: 9-2-26
+
+Resolved by: Zevan Simon
