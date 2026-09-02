@@ -7,7 +7,11 @@ Northstar Medical Group's (Fictional Company) employee onboarding process lacked
 I  created a new Active Directory domain to provide Northstar Medical Group with a more organzied an secure environment. I designed a structured OU layout to properly organize employees and departments. Security groups were created to control access based on each employee's job role using an RBAC model. This ensured users only received the permissions necessary to perform their jobs. I also improved the user provisioning process to make onboarding more consistent, secure, and easier to manage. These changes reduced manual errors and helped strengthen the organization's overall security and HIPAA compliance.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+
+
+
+
+
 
 ## Tools Used
 * Windows Server
