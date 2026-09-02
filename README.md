@@ -1,7 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-Northstar Medical Group's (Fictional Company) employee onboarding process lacked a clear and consistent structure for managing user accounts and access permissions. The previous MSP has mismanaged Active Directory, resulting in poorly organized users and inconsistent security controls. New employee accounts and permissions were handled manually, increasing the risk of errors and users receiving unnecessary access. These issues created security concerns and increased the organization's risk of HIPAA compliance violations. 
+Northstar Medical Group's (Fictional Company) employee onboarding process lacked a clear and consistent structure for managing user accounts and access permissions. The previous MSP had mismanaged Active Directory, resulting in poorly organized users and inconsistent security controls. New employee accounts and permissions were handled manually, increasing the risk of errors and users receiving unnecessary access. These issues created security concerns and increased the organization's risk of HIPAA compliance violations. 
 
 ## Solution Overview
 I  created a new Active Directory domain to provide Northstar Medical Group with a more organzied an secure environment. I designed a structured OU layout to properly organize employees and departments. Security groups were created to control access based on each employee's job role using an RBAC model. This ensured users only received the permissions necessary to perform their jobs. I also improved the user provisioning process to make onboarding more consistent, secure, and easier to manage. These changes reduced manual errors and helped strengthen the organization's overall security and HIPAA compliance.
